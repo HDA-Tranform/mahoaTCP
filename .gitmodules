@@ -1,0 +1,3 @@
+[submodule "DemoTCPChatGUI"]
+	path = DemoTCPChatGUI
+	url = https://github.com/HDA-Tranform/DemoTCPChatGUI.git
